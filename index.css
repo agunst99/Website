@@ -125,6 +125,10 @@ section div.panel img.fantasyType {
   width: 100%;
 }
 
+.btn {
+  background-color: #463b00;
+  color: white;
+}
 /*clear*/
 div.clear {
   clear:both;
